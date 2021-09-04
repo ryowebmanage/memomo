@@ -11,7 +11,7 @@ export default function MemoCreateScreen(){
     <KeyboardAvoidingView style={styles.container} behavior='height'>
       <AppBar />
       <View style={styles.inputContainer}>
-        <TextInput value="bbbbb"multiline style={styles.input} />
+        <TextInput value=""multiline style={styles.input} />
       </View>
       <CircleButton name="check"/>
     </KeyboardAvoidingView>
